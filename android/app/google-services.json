@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "701102164255",
+    "project_id": "shoppinglist-c20c5",
+    "storage_bucket": "shoppinglist-c20c5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701102164255:android:738132bb1e8f84f1c1882a",
+        "android_client_info": {
+          "package_name": "pl.polak.shopping_list"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApdPl7_SG0rzObH3uSFLbPe22rL10XEVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
